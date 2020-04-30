@@ -9,6 +9,7 @@ target 'FriendlyEats' do
   pod 'FirebaseUI/Email', '~> 8.0'
   pod 'FirebaseUI/Google', '~> 8.0'
   pod 'Firebase/Firestore'
+  pod 'FirebaseFirestoreSwift'
   pod 'Firebase/Core'
 
   target 'FriendlyEatsTests' do
